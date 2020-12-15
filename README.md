@@ -19,8 +19,9 @@ and I copied it and paste it inside <body>.
 
 -It's time to customize each file depends on it's content.
 
----index.html will contain my "name" and "about me".
+I chose the best design for me on Bootstrap and copy pasted the codes into my html sheets.
+then i customized each sheet in the CSS stylesheet.
 
--
+and I added a background to the my website.
 
 
