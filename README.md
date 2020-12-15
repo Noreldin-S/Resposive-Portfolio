@@ -1,5 +1,7 @@
 Description of my work.
 
+link: https://noreldin-s.github.io/Resposive-Portfolio/
+
 -First I created 4 files (index.html, contact.html, portfolio.html, and style.css).
 
 -Then I went to "Bootstrap" website and copied the link for CSS and paste it in <head>, Inside index.html.
@@ -17,7 +19,7 @@ and I copied it and paste it inside <body>.
 
 -It's time to customize each file depends on it's content.
 
-index.html will contain my "name" and "about me".
+---index.html will contain my "name" and "about me".
 
 -
 
