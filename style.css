@@ -52,6 +52,7 @@ font-family: "Times New Roman";
 .my-text{
   background-color:rgba(126, 108, 108, 0.872);
   font-weight: bold;
+  height: 40%;
 }
 
 .block-header{
